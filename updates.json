@@ -1,0 +1,8 @@
+{
+    "exxeo-launcher": {
+      "readme": "First release",
+      "update": "https://github.com/H-4ND-H/exxeo-release/releases/tag/1.0.0/exxeo-launcher",
+      "install": "https://github.com/H-4ND-H/exxeo-release/releases/tag/1.0.0/exxeo-launcher.exe",
+      "version": "1.0.0"
+    }
+}
